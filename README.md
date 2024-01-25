@@ -1,6 +1,9 @@
-# Sameday tutorial
 
-This simple project demonstrates the integration of Next.js and Python for creating virtual sales agents. Follow these straightforward steps to set up and run the project:
+
+
+# Voice AI two way conversation
+
+Project for having two way conversation
 
 ## Prerequisites
 
@@ -24,20 +27,9 @@ This simple project demonstrates the integration of Next.js and Python for creat
 
    Your Next.js application should be up and running on [http://localhost:3000](http://localhost:3000).
 
-## Getting Started with Python
+## Getting Started with backend
 
-1. **Install Python Requirements**: Navigate to the Python directory and install the required Python packages by running:
-
-   ```bash
-   pip install -r requirements.txt
+1. **Backend Requirements**: 
+ ```bash
+   npm start
    ```
-
-2. **Run the Python Application**: Execute the Python script to use the virtual sales agents:
-
-   ```bash
-   python main.py
-   ```
-
-   The Python application will run and interact with the virtual sales agents.
-
-That's it! You're all set to create and use virtual sales agents with Next.js and Python. If you encounter any issues, refer to the documentation for each technology or contact the project's maintainers for assistance. Enjoy working with your AI-driven virtual sales agents!
